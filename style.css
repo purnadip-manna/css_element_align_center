@@ -1,3 +1,7 @@
+/* 
+	In html only apply this class in a div ==> <div class="wrapper"> Content... </div>
+	This css code helps to align any element or a group of element at the center of the page.
+*/
 .wrapper {
 	display: flex;
 	align-items: center;
@@ -7,5 +11,3 @@
 	min-height: 100%;
 	padding: 20px;
 }
-
-//In html only apply this class in a div ==> <div class="wrapper"> Content... </div>

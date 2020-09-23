@@ -11,3 +11,18 @@
 	min-height: 100%;
 	padding: 20px;
 }
+
+/* Shadow */
+
+.shadow{
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border-radius: 10px 10px 10px 10px;
+	background: #fff;
+	padding: 30px;
+	width: 100%;
+	max-width: 450px;
+	position: relative;
+	padding: 10px;
+	-webkit-box-shadow: 5px 20px 20px 4px rgba(0,0,0,0.11);
+	box-shadow: 5px 20px 20px 4px rgba(0,0,0,0.11);
+}
